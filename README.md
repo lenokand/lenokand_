@@ -2,8 +2,11 @@
 ## I'm a beginer *Front-end developer* from Dometsk.
 ### Languages and Technologies
 
-![Javascript](https://img.shields.io/badge/-Javascript-090909?style=social&logo=JS)
+![JS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=JS)
 ![HTML5](https://img.shields.io/badge/-Javascript-090909?style=social&logo=HTML5)
+![CSS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=CSS)
+![SCSS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=SCSS)
+
 
 ### 📫  Mail shtanko1991@gmail.com
 ### 💬 Telegram @lenok_a
