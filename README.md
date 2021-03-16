@@ -1,4 +1,10 @@
-### Hi there 👋
+#  👋 Hi, my name is **Elena Andryshchenko**
+## I'm a beginer *Front-end developer* from Dometsk.
+### Languages and Technologies
+![Javascript] (https://img.shields.io/badge/<Javascript>-<red>)
+
+### 📫  Mail shtanko1991@gmail.com
+### 💬 Telegram @lenok_a
 
 <!--
 **lenokand/lenokand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
