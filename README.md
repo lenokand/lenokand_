@@ -6,6 +6,7 @@
 ![hTML5](https://img.shields.io/badge/-HTML5-090909?style=social&logo=hTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-090909?style=social&logo=Bootstrap5)
 
 
 ### 📫  Mail shtanko1991@gmail.com
