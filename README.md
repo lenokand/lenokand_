@@ -1,7 +1,7 @@
 #  👋 Hi, my name is **Elena Andryshchenko**
 ## I'm a beginer *Front-end developer* from Dometsk.
 ### Languages and Technologies
-![Javascript] (https://img.shields.io/badge/<Javascript>-<090909>?style=for-the-badge&jsappveyor)
+![Javascript] (https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=JS)
 
 ### 📫  Mail shtanko1991@gmail.com
 ### 💬 Telegram @lenok_a
