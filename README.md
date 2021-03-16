@@ -3,9 +3,9 @@
 ### Languages and Technologies
 
 ![JS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=JS)
-![HTML5](https://img.shields.io/badge/-Javascript-090909?style=social&logo=HTML5)
-![CSS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=CSS)
-![SCSS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=SCSS)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=social&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
 
 
 ### 📫  Mail shtanko1991@gmail.com
