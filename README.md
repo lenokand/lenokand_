@@ -2,7 +2,7 @@
 ## I'm a beginer *Front-end developer* from Dometsk.
 ### Languages and Technologies
 
-![JS](https://img.shields.io/badge/-Javascript-090909?style=social&logo=JS)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=social&logo=JAVASCRIPT)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=social&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
