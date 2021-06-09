@@ -10,6 +10,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=social&logo=jQuery)
 ![ModX](https://img.shields.io/badge/-ModX-090909?style=social&logo=ModX)
 ![Pug](https://img.shields.io/badge/-Pug-090909?style=social&logo=Pug)
+![php](https://img.shields.io/badge/-php-090909?style=social&logo=php)
 
 
 ### 📫  Mail shtanko1991@gmail.com
