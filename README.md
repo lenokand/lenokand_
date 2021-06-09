@@ -3,6 +3,7 @@
 ### Languages and Technologies
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=social&logo=JAVASCRIPT)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=social&logo=jQuery)
 ![hTML5](https://img.shields.io/badge/-HTML5-090909?style=social&logo=hTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
