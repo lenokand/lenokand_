@@ -3,11 +3,11 @@
 ### Languages and Technologies
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=social&logo=JAVASCRIPT)
-![jQuery](https://img.shields.io/badge/-jQuery-090909?style=social&logo=jQuery)
 ![hTML5](https://img.shields.io/badge/-HTML5-090909?style=social&logo=hTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-090909?style=social&logo=Bootstrap5)
+![jQuery](https://img.shields.io/badge/-jQuery-090909?style=social&logo=jQuery)
 ![ModX](https://img.shields.io/badge/-ModX-090909?style=social&logo=ModX)
 
 
