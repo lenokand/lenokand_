@@ -7,6 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=social&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=social&logo=SCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap5-090909?style=social&logo=Bootstrap5)
+![ModX](https://img.shields.io/badge/-ModX-090909?style=social&logo=ModX)
 
 
 ### 📫  Mail shtanko1991@gmail.com
