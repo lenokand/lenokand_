@@ -12,7 +12,7 @@
 ![Pug](https://img.shields.io/badge/-Pug-090909?style=social&logo=Pug)
 ![php](https://img.shields.io/badge/-php-090909?style=social&logo=php)
 ![react](https://img.shields.io/badge/-react-090909?style=social&logo=react)
-
+![wp](https://img.shields.io/badge/-wp-090909?style=social&logo=wp)
 
 ### 📫  Mail shtanko1991@gmail.com
 ### 💬 Telegram @lenok_a
