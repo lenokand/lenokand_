@@ -11,7 +11,7 @@
 ![ModX](https://img.shields.io/badge/-ModX-090909?style=social&logo=ModX)
 ![Pug](https://img.shields.io/badge/-Pug-090909?style=social&logo=Pug)
 ![php](https://img.shields.io/badge/-php-090909?style=social&logo=php)
-![react](https://img.shields.io/badge/-php-090909?style=social&logo=react)
+![react](https://img.shields.io/badge/-react-090909?style=social&logo=react)
 
 
 ### 📫  Mail shtanko1991@gmail.com
