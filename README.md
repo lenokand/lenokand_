@@ -15,7 +15,7 @@
 ![WORDPRESS](https://img.shields.io/badge/-wordpress-090909?style=social&logo=wp)
 
 ### 📫  Mail shtanko1991@gmail.com
-### 💬 Telegram @lenok_a
+### 💬 Telegram https://t.me/lenok_a
 
 
 <!--
