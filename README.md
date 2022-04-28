@@ -1,5 +1,5 @@
 #  👋 Hi, my name is **Elena Andryshchenko**
-## I'm a beginer *Front-end developer* from Donetsk.
+## I'm a *Front-end developer* from Donetsk.
 ### Languages and Technologies
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=social&logo=JAVASCRIPT)
