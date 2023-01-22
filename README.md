@@ -1,4 +1,4 @@
-#  👋 Hi, my name is **Elena Andryshchenko**
+#  👋 Hi, my name is **Olena Andriushchenko**
 ## I'm a *Front-end developer*.
 ### Languages and Technologies
 
